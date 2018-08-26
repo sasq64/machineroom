@@ -1,6 +1,8 @@
 
 
-## C64 Emulator Preview
+## C64 Emulator Preview (Oculus Go)
+
+_(See Releases for Download)_
 
 * Point and index-click to grab disks, insert disks into drive & press certain buttons on the keyboard
 * Press back to switch viewpoint
@@ -10,3 +12,4 @@
 * Connect a real keyboard to type real text, or a gamepad to play games
 
 
+![Screenshot](/screenshot.jpg?raw=true "Optional Title")
