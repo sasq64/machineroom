@@ -2,7 +2,17 @@
 
 ## C64 Emulator Preview (Oculus Go)
 
-_(See Releases for Download)_
+### Install
+
+See _Releases_ for APK Download.
+
+* You need `adb` (from Android platform tools)
+* You need _USB Debugging_ & _Unknown Sources_ turned on.
+
+`adb install vrvice.apk`
+
+
+### Features
 
 * Point and index-click to grab disks, insert disks into drive & press certain buttons on the keyboard
 * Press back to switch viewpoint
